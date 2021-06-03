@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The countrey farrier teaching divers and sundry approved medicines, to cure all sorts of cattell: as horse, kine, sheepe, hogs, and dogs. With directions how to find, or know, what the disease or infirmity is. Contrived into a little volume, for avoiding the charge of high-priz'd bookes. Very usefull and necessary for all country-farmers, housholders, and generally, for all sorts of people.</title>
+            <author>Poole, William, farrier.</author>
+         </titleStmt>
+         <extent>Approx. 36KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90830</idno><idno type="EEBO-CITATION">99868148</idno>
+  <idno type="VID">169853</idno>
+  <idno type="EEBO-PROQUEST">2240954874</idno>
+  
+            <idno type="STC">Wing P2856</idno>
+            <idno type="STC">Thomason E1366_3</idno>
+            <idno type="STC">ESTC R209262</idno>
+            <idno type="PROQUEST">99868148</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868148e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90830)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169853)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 179:E1366[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The countrey farrier teaching divers and sundry approved medicines, to cure all sorts of cattell: as horse, kine, sheepe, hogs, and dogs. With directions how to find, or know, what the disease or infirmity is. Contrived into a little volume, for avoiding the charge of high-priz'd bookes. Very usefull and necessary for all country-farmers, housholders, and generally, for all sorts of people.</title>
+                  <author>Poole, William, farrier.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second addition  /</edition>
+               </editionStmt>
+               <extent>[10], 46 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Forcet, dwelling in Old-Fishstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf has woodcut illustrations on recto and verso.</note>
+                  <note>Running title reads: The countrey farrier. Curing severall diseases.</note>
+                  <note>Annotation on Thomason copy: "Aprill 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Veterinary medicine --  England --  Early works to 1800.</term>
+               <term type="topical_term">Domestic animals --  Diseases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169853:1"/>
+            <p>THE COUNTREY FARRIER.</p>
+            <p>Teaching divers and sundry ap<g ref="char:EOLhyphen"/>proved Medicines, to Cure all sorts of CATTELL: <hi>As Horse, Kine, Sheepe, Hogs, and Dogs.</hi>
+            </p>
+            <p>WITH Directions how to find, or know, what the Disease or Infirmity is.</p>
+            <p>CONTRIVED Into a little <hi>Volume,</hi> for avoiding the <hi>Charge of high-priz'd Bookes.</hi>
+            </p>
+            <p>Very usefull and necessary for all Country-Farmers, Housholders, and generally, for all sorts of people.</p>
+            <p>
+               <hi>The Second addition,</hi> Exactly Collected and amended, by the <hi>long Travels, Study, and Experience of</hi> WILLIAM POOLE.</p>
+            <p>LONDON, Printed by THO. FORCET, dwelling in <hi>Old-Fishstreet.</hi> 1650.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:169853:2"/>
+            <head>
+               <figure/>
+            </head>
+            <lg>
+               <l>THe Country-man, that doth live farre remote</l>
+               <l>From Farriers helpe; City, or Towne of note;</l>
+               <l>Had need by judgement, and Directions skill,</l>
+               <l>Study to know, the helpe of Cattle ill:</l>
+               <l>As Horse, Kine, Neat, and Sheepe, or Hogs,</l>
+               <l>Creatures most usefull; (and withall mad Dogs,)</l>
+               <l>Let him observe, and read this little Booke,</l>
+               <l>Shall find his Time not lost, therein to looke.</l>
+            </lg>
+            <lg>
+               <l>Finding the Cause, Disease, and ready way</l>
+               <l>To Cure the same himselfe, without delay.</l>
+            </lg>
+            <closer>
+               <signed>T. F.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169853:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:169853:3"/>
+            <pb facs="tcp:169853:3"/>
+            <head>
+               <hi>TO</hi> The Courteous Reader.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">G</seg>Entle Reader,</hi> J by much labour and long Expe<g ref="char:EOLhyphen"/>rience, have collected divers and sundry se<g ref="char:EOLhyphen"/>verall Medicines to cure Cattell, very easie and of little charge, which I have published for the good of the Common-Wealth; especially for the Poorer sort of people, who having but one Beast, the losse thereof to them, is more then the losse of many to a Rich man. Besides I have set downe, how to know such Infirmities whose Names are not vulgarly knowne to the Common sort of people, as the <hi>Mares evill,</hi> the
+<pb facs="tcp:169853:4"/>
+               <hi>More-evill, Narvel-galled,</hi> the <hi>Tan<g ref="char:EOLhyphen"/>gen,</hi> and the <hi>Wither,</hi> &amp;c. whereby a man may know the Infirmity, and cure his Cattell himselfe, whilest seeking for a Leech, his Cattell may perish. If these my Labours may bee profitable, and acceptable unto you. J shall thinke my time well bestowed, and remaine your loving Friend,</p>
+            <closer>
+               <signed>William Poole.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:169853:4"/>
+            <head>
+               <hi>A TABLE OF THE CONTENTS,</hi> To Cure Infirmities in Horse or Mare.</head>
+            <list>
+               <item>A Horse that hath a Galled-back. 1</item>
+               <item>A Bruised backe. 2</item>
+               <item>Broken-winded 3</item>
+               <item>A hoarse Cough. 4</item>
+               <item>Bound in the Body. 5</item>
+               <item>Hyde-bound. 6</item>
+               <item>A Canker. 7</item>
+               <item>A Canker in the Nose, 8</item>
+               <item>A Cut. 9. A greene wound. 10</item>
+               <item>A sore Festered. 11</item>
+               <item>Shot or Staked. 12</item>
+               <item>A good Drinke. 13</item>
+               <item>A Mare that hath a dead Colt in her. 14</item>
+               <item>A Pirle in the Eye. 15</item>
+               <item>Itching and burning in the Eye. 16</item>
+               <item>A Fistula in a horse. 17</item>
+               <pb facs="tcp:169853:5"/>
+               <item>A quicke way to cure a Fistula in Summer, 18</item>
+               <item>A Fistula in the head. 19</item>
+               <item>The Fassions. 20</item>
+               <item>A Feaver. 21</item>
+               <item>A Farcy, 22</item>
+               <item>The Glanders. 23</item>
+               <item>Galled betweene the thighes with Journeying. 24</item>
+               <item>A halting straine. 25</item>
+               <item>An Impostume. 26</item>
+               <item>A hot Impostume. 27</item>
+               <item>A cold Impostume. 28</item>
+               <item>The Mares-evill. 29</item>
+               <item>The Mange in a horse. 30</item>
+               <item>The Narvill-galled. 31</item>
+               <item>Over-ridden. 32</item>
+               <item>Poore in flesh. 33.</item>
+               <item>Purcie. 34</item>
+               <item>Pole-evill. 35</item>
+               <item>A prick with a Nayle, 36</item>
+               <item>To Stanch bloud. 37</item>
+               <item>Ring-bone or Spavin. 38</item>
+               <item>The Staggers. 39</item>
+               <item>The Scraches. 40</item>
+               <item>A beast that cannot Stale. 41</item>
+               <item>For Strangullion. 42</item>
+               <item>For Swelling. 43</item>
+               <pb facs="tcp:169853:5"/>
+               <item>Swelling the Legges. 44</item>
+               <item>A horse that hath the Vives. 45</item>
+               <item>The Vives what it is. 46</item>
+               <item>The Yellowes. 47</item>
+               <item>One that forsakes his meat. 48</item>
+               <item>To make a horse Hoofe to grow. 49</item>
+               <item>Saddle-galled. 50 Foundered. 51</item>
+               <item>The Bottes or Wormes. 52</item>
+               <item>Tyred, to hold out. 53</item>
+               <item>Halting, &amp;c. 54</item>
+            </list>
+            <div type="part">
+               <head>How to know their Diseases, and to make severall Medicines for the Curing of Kine, Hogs, Sheepe, and mangie Dogs.</head>
+               <list>
+                  <item>A Cow that is like to cast her Calf. 1</item>
+                  <item>A Cow that hath cast her Calfe. 2</item>
+                  <item>A Cow that cannot Cleane. 3</item>
+                  <item>Weaning of Calves. 4</item>
+                  <item>To increase Milke. 5</item>
+                  <item>The Collick. 6</item>
+                  <item>A Cow that hath lost her Cud. 7</item>
+                  <item>One thats Bruised. 8</item>
+                  <item>Pissing Blood. 9</item>
+                  <item>Them that cannot Dung. 10</item>
+                  <pb facs="tcp:169853:6"/>
+                  <item>The Fret. 11</item>
+                  <item>Gall-sick. 12</item>
+                  <item>The Gall doe run. 13</item>
+                  <item>Lung-sick. 14</item>
+                  <item>The Murren. 15, 16</item>
+                  <item>The Murren. 17</item>
+                  <item>Maw sick. 18</item>
+                  <item>More-evill. 19</item>
+                  <item>Asp-sprung. 20</item>
+                  <item>Dry Rot. 21</item>
+                  <item>Swelled with Pulse. 22</item>
+                  <item>Swelled with greene Corne, 23</item>
+                  <item>Staggers. 24</item>
+                  <item>To cure the Tangin. 25</item>
+                  <item>The Wither. 26</item>
+                  <item>For a Cow that hath the Wither. 27</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>To cure Sheepe.</head>
+               <list>
+                  <item>That have the Staggers. 28</item>
+                  <item>That make Red water. 29</item>
+                  <item>To know whether your Cattle will live or dye. 30, 31</item>
+                  <item>For Hogges that have the Murren or Garga<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 32</item>
+                  <item>To cure a Mangie Dog. 33</item>
+               </list>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="prescriptions">
+            <pb n="1" facs="tcp:169853:6"/>
+            <head>THE COVNTREY FARRIER. Curing severall Diseases.</head>
+            <div n="1" type="prescription">
+               <head>
+                  <hi>I.</hi> To Cure a Horse that bath a galled Backe.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Ake English-Honey, and unslak't Lime, beat the Lime, put it in a linnen-cloath, bind it close, and lay it in the Embers all night; then strew it on the galled place: but
+<pb n="2" facs="tcp:169853:7"/> if you will Bloud him, put to it a little Verdigrease.</p>
+            </div>
+            <div n="2" type="prescription">
+               <head>
+                  <hi>II.</hi> To heale a Horse-backe bee it never so much bruised.</head>
+               <p>TAke a good quantity of <hi>Roch Allome</hi> burnt, a handfull of Barley burnt, mix them, and put of it upon the sore Morning and Evening; but if the sore be cor<g ref="char:EOLhyphen"/>rupt and full of dead Flesh, then use more of the Allome then of the Barley. If it begin to heale, use more of the Barley-powder, then of the Allome. If you have no Allome, take Butter and Ver<g ref="char:EOLhyphen"/>digrease, melt it and make it very hot and powre it on the sore, twice or thrice a day, and bind a little Hay thereon with a cloath, that the horse may not rub it off;
+<pb n="3" facs="tcp:169853:7"/> If it swell keepe it warme, dip a good pad of Hay in water and lay it on the sore, and keepe on an old Saddle or something on it, that it doe not rub nor fall of.</p>
+            </div>
+            <div n="3" type="prescription">
+               <head>
+                  <hi>III.</hi> For a horse that is Broke<g ref="char:EOLhyphen"/>winded.</head>
+               <p>TAke Boares-dung, make pow<g ref="char:EOLhyphen"/>der of it, and put a good quantity of it into Milke, make it luke-warme, and give the Horse a quart thereof every third day. And in foure times doing it will cure him. <hi>Probatum est.</hi>
+               </p>
+            </div>
+            <div n="4" type="prescription">
+               <pb n="4" facs="tcp:169853:8"/>
+               <head>
+                  <hi>IV.</hi> To cure a Horse that hath a hoarse Cough.</head>
+               <p>TAke five or sixe Egges, lay them in sharpe white Wine vineger, till the shells bee some<g ref="char:EOLhyphen"/>what soft, then put them downe his throat; but let his Tongue be holden out whilest you doe it, this will cure him forthwith.</p>
+            </div>
+            <div n="5" type="prescription">
+               <head>
+                  <hi>V.</hi> For a Horse that is bound in his Body.</head>
+               <p>TAke good sweet Wort, and so much Sope as an Egge, and give it him to drinke.</p>
+            </div>
+            <div n="6" type="prescription">
+               <pb n="5" facs="tcp:169853:8"/>
+               <head>
+                  <hi>VI.</hi> For a horse that is Hide-bound.</head>
+               <p>TAke Fennicreek, Turmerick, Anniseeds, Bay-berries, Lico<g ref="char:EOLhyphen"/>rice, and Cummin-seed, of each a like quantity, beat them to pow<g ref="char:EOLhyphen"/>der, mix them together, and give him a spoonfull thereof in Ale or Beere at a time blood-warme and this will cure him.</p>
+            </div>
+            <div n="7" type="prescription">
+               <head>
+                  <hi>VII.</hi> To kill a Canker in a horse.</head>
+               <p>TAke a handfull of Salt, and burne it black, then take a penny-worth of Bole-armoniack, a half-penny-worth of burnt Al<g ref="char:EOLhyphen"/>lome, and a handfull of Sage, boyle these in a quart of old Chamber-lye, till one halfe bee
+<pb n="6" facs="tcp:169853:9"/> wasted, wash the horse there<g ref="char:EOLhyphen"/>with every twenty foure houres, and after you have washed the sore five or siz times, then take a little Turpentine, wash it in clean water, and put to it a little pow<g ref="char:EOLhyphen"/>der of Brimstone, and a little English honey, boyle them in the said water, and wash the sore place therewith.</p>
+            </div>
+            <div n="8" type="prescription">
+               <head>
+                  <hi>VIII.</hi> To kill a Canker in a horses Nose.</head>
+               <p>TAke red Sage, and Rue, of each a handfull, half a pound of Allome and burne it, of Eng<g ref="char:EOLhyphen"/>lish honey and white Copporas, of each two penny-worth, boyle these well in a pint of white Wine vineger; then take the third or fourth feather of a Goose
+<pb n="7" facs="tcp:169853:9"/> wing, put a strong thred of two foot long through the quill, wrap the thred about your finger, dip it in the water, and wash his Nose or mouth therewith, and if hee snort up the feather, the thred will pull it backe. This will heale it in three weekes. Al<g ref="char:EOLhyphen"/>so you may if time of yeare will serve, boyle in your Vineger a lit<g ref="char:EOLhyphen"/>tle handfull of Ribwort, Bittony, and Daysies.</p>
+            </div>
+            <div n="9" type="prescription">
+               <head>
+                  <hi>IX.</hi> To heale a Cut in a Horse.</head>
+               <p>TAke one quarter of a pound of Butter without salt, of Tarre and black Sope halfe so much, and a little Turpentine, boyle the Butter, the Tarre, and the Turpentine together; and so soone as you take them from the
+<pb n="8" facs="tcp:169853:10"/> fire, put in the Sope, dip Towe in it, and wash the place with it, and leave the towe in it. If it bee a hole make tents and put them in.</p>
+            </div>
+            <div n="10" type="prescription">
+               <head>
+                  <hi>X.</hi> To heale a greene Wound in a horse.</head>
+               <p>TAke white Wine, warme it and wash the wound all over, then take Turpentine, honey of Roses, and Wax, melt them to<g ref="char:EOLhyphen"/>gether, and stirre them continu<g ref="char:EOLhyphen"/>ally till they be all incorporated. If it bee a Cut, dip towe in it and fill it, if it be a hole, make tents and put into it.</p>
+            </div>
+            <div n="11" type="prescription">
+               <pb n="9" facs="tcp:169853:10"/>
+               <head>
+                  <hi>XI.</hi> For a horse that hath a Sore festered.</head>
+               <p>TAke Lime and tough Horse<g ref="char:EOLhyphen"/>dung, temper them together with Pepper and the white of an Egge, lay it to the sore the space of five dayes, and it will heale it.</p>
+            </div>
+            <div n="12" type="prescription">
+               <head>
+                  <hi>XII.</hi> For a horse that is Shot or Staked.</head>
+               <p>TAke Sallet-Oyle, Turpentine, and Bees wax, of each a pen<g ref="char:EOLhyphen"/>ny-worth, and so much Rozin as an Egge, boyle all these toge<g ref="char:EOLhyphen"/>ther, and sprinkle on them a little Verdigrease, then make cleane the wound, make tents and put them in.</p>
+            </div>
+            <div n="13" type="prescription">
+               <pb n="10" facs="tcp:169853:11"/>
+               <head>
+                  <hi>XIII.</hi> A good Drinke for a Horse.</head>
+               <p>TAke <hi>Pullus Diapentha</hi> two penniworth, Anniseeds, and Licorice in powder, of each a half-penniworth, of Sack two penni<g ref="char:EOLhyphen"/>worth, and a little Sallet-oyle, mixed together; warme them bloud-warme, but no warmer, then give it the horse with a horne.</p>
+            </div>
+            <div n="14" type="prescription">
+               <head>
+                  <hi>XIIII.</hi> To cure a Mare that hath in her a dead Colt, which you shall per<g ref="char:EOLhyphen"/>ceive by her standing, Sweating, and forsaking her meat.</head>
+               <p>TAke a quart of Milke hot from the Cow, some Sope, and a penniworth of Treakle, give it her to drinke, and when shee
+<pb n="11" facs="tcp:169853:11"/> hath stood four &amp; twenty houres, you shall see some part of the Colt; but if it come not away, pull it away by strength, then take a pint of Muskadine, a pen<g ref="char:EOLhyphen"/>niworth of Malligo-Raisons, and a penniworth of Licorice; stampe them all together, and give it her to drinke, and it will perfectly Cure her, but you must keepe her warme.</p>
+            </div>
+            <div n="15" type="prescription">
+               <head>
+                  <hi>XV.</hi> To cure a Perle in a horses Eye.</head>
+               <p>TAke the joyce of Sellendine, the joyce of ground Ivie, and Womans milke, mixed together, and squirt it into his eye.</p>
+            </div>
+            <div n="16" type="prescription">
+               <pb n="12" facs="tcp:169853:12"/>
+               <head>
+                  <hi>XVI.</hi> For Itching and Burning in a horses Eye.</head>
+               <p>TAke Rose-water, Planten-water, the water of the flowers of Mirtle, water of the leaves of House-leeke, of <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uttia</hi> prepared, of Camphere, of white <hi>Siruse</hi> wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>out <hi>Opium,</hi> and the whites of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oasted Egges, of each three Graines; set the water on the fire till it bee hot, and beat them to the space of three or foure houres, then straine them, and keepe the liqour in a Brasse vessell well stopped. Apply this to the corners of the eyes, it is a present Remedy.</p>
+            </div>
+            <div n="17" type="prescription">
+               <head>
+                  <hi>XVII.</hi> To cure a Fistula in a Horse.</head>
+               <p>WHen you perceive it to swell, scald it well with
+<pb n="13" facs="tcp:169853:12"/> Hony and Sheepes-suet, for that will keepe it from breeding. Then slit it in the nether end of the sore, and put in so much <hi>Mercury</hi> sublimate as a Pease, it being a<g ref="char:EOLhyphen"/>bated with Sallet oyle; lay it on with a feather, then take foure penniworth of Verdigrease, one half-penniworth of Vitrial, three-penniworth of Red-lead, beat all these together; then wash the sore with water made of Coporas and Elder leaves, in summer; but with the inner barke of Elder in winter. And after the washing, put the powder on the sore, and drop on it a little Sallet oyle.</p>
+            </div>
+            <div n="18" type="prescription">
+               <head>
+                  <hi>XVIII.</hi> A quicke way to cure a Fistula in Summer.</head>
+               <p>TAke the juice of Egremony, the juice of Daffadillies, and
+<pb n="14" facs="tcp:169853:13"/> the juice of Sellendine, of each three ounces, of common Salt, of Salt Armoniack, of Sublimate, of Verdigrease, of Roeh-allome, and of <hi>Aqua-vitae,</hi> of each one ounce; then boyle them till halfe the juice be wasted, squirt of the liquor into the Fistula.</p>
+            </div>
+            <div n="19" type="prescription">
+               <head>
+                  <hi>XIX.</hi> To cure a Fistula in a horses Head.</head>
+               <p>TAke the juice of Housleeke, and dip a locke of Wooll in it, put it in his Eare, and bind it fast; use this once a day and it will helpe him.</p>
+            </div>
+            <div n="20" type="prescription">
+               <head>
+                  <hi>XX.</hi> For a horse that hath the Fassions.</head>
+               <p>TAke Urine and wash the place grieved, then take the powder
+<pb n="15" facs="tcp:169853:13"/> of Bewglosse, Brimstone, and Hogs-grease, of each a like quan<g ref="char:EOLhyphen"/>tity, stampe them all together, then cut the buds, and annoint the place therewith. It will cure them immediatly.</p>
+            </div>
+            <div n="21" type="prescription">
+               <head>
+                  <hi>XXI.</hi> To cure a Feavor in a Horse.</head>
+               <p>LEt him blood in the Thigh, in the middle veyne, some foure fingers bredth under his Tuell, or else take the veyne in the necke, and give him a Drinke.</p>
+            </div>
+            <div n="22" type="prescription">
+               <head>
+                  <hi>XXII.</hi> To cure a horse that hath a Farcie.</head>
+               <p>TAke Tanners-ouse and Beefe<g ref="char:EOLhyphen"/>brine, boyle them well, and scum them, then put in the pow<g ref="char:EOLhyphen"/>der
+<pb n="16" facs="tcp:169853:14"/> of Salt-peeter, and wash the horse therewith.</p>
+            </div>
+            <div n="23" type="prescription">
+               <head>
+                  <hi>XXIII.</hi> For a horse that hath the Glanders.</head>
+               <p>TAke twenty cloves of Garlick, foure quarts of Ale, and one penny worth of Sallet-oyle, pill and beat the Garlicke, and mix them, then give it him to drinke; then take a pan of coales, and strew on them the powder of Brimstone, laying on a little wet Hay, and hold it under the horses nose.</p>
+            </div>
+            <div n="24" type="prescription">
+               <head>
+                  <hi>XXIIII.</hi> For a horse that is galled betweene the thighes with journying.</head>
+               <p>WAsh it with the water of Roses, Planten, Mirtle, and
+<pb n="17" facs="tcp:169853:14"/> the leaves of Mallowes, then annoint the place with <hi>Ʋnguen<g ref="char:EOLhyphen"/>tum Popilion.</hi>
+               </p>
+            </div>
+            <div n="25" type="prescription">
+               <head>
+                  <hi>XXV.</hi> For a halting straine, or a stroke on a horses Legge.</head>
+               <p>TAke flower of Linseed, Tur<g ref="char:EOLhyphen"/>pentine, and life Honey, of each a like quantity, boyle them together with white Wine till they bee thick, like an oyntment, then spread it on a cloath, lay it to the griefe and it will take away any paine in the Sinewes; Also make a plaister of Wine-lees, and Wheat-flower, or black Sope, and Boares grease, will doe the like; If you will you may mix Nerve-oyle, oyle de Bayes, and Aqua-vitae with it, and then chafe it in.</p>
+            </div>
+            <div n="26" type="prescription">
+               <pb n="18" facs="tcp:169853:15"/>
+               <head>
+                  <hi>XXVI.</hi> To ripe an Impostume in a horse.</head>
+               <p>SEeth Mallow rootes, and Lilly rootes, bruise them and put thereto Hogs grease, and the meale of Linseed, then lay it on Plai<g ref="char:EOLhyphen"/>ster-wise, and it will help it.</p>
+            </div>
+            <div n="27" type="prescription">
+               <head>
+                  <hi>XXVII.</hi> To Cure a hot Impostume in any out<g ref="char:EOLhyphen"/>ward part of a horse.</head>
+               <p>STampe Liverwort and Mal<g ref="char:EOLhyphen"/>lowes, mixe them with the grounds of Ale, and Hogs-grease, then making it hot lay it on the place.</p>
+            </div>
+            <div n="28" type="prescription">
+               <head>
+                  <hi>XXVIII.</hi> To Cure a cold Impostume.</head>
+               <p>STampe Balme, mixe it with Hogs-grease, and lay it on Plaister wise.</p>
+            </div>
+            <div n="29" type="prescription">
+               <pb n="19" facs="tcp:169853:15"/>
+               <head>
+                  <hi>XXIX.</hi> To helpe the Mares evill.</head>
+               <p>TAke Oatmeale, Mallowes, Wormwood, Hoarehound, &amp; Smallage, wring them together, and boyle them till they bee soft; then lay it to the griefe; and it will bring it to a head. Then lance it, and take red Lead, Bole-armo<g ref="char:EOLhyphen"/>niack and Rosin, beat them to<g ref="char:EOLhyphen"/>gether and lay it on the place.</p>
+            </div>
+            <div n="30" type="prescription">
+               <head>
+                  <hi>XXX.</hi> To cure a Horse that hath the Mange.</head>
+               <p>TAke one penniworth of May-butter, a half-penny worth of Brimstone in powder, and the juyce of Hemlocke, and boyle them together, then with an old Wooll-card scrape away the
+<pb n="20" facs="tcp:169853:16"/> haire, and lay on the medicine cold where the Mange is: Then with a warme batt of yron, bat it easily, and in three or foure times it will cure him.</p>
+            </div>
+            <div n="31" type="prescription">
+               <head>
+                  <hi>XXXI.</hi> For a Horse that is Narvill-galled.</head>
+               <p>TAke Nettle-seed, mix it with Sallet-oyle, and annoint the sore place therewith.</p>
+            </div>
+            <div n="32" type="prescription">
+               <head>
+                  <hi>XXXII.</hi> For a Horse that is Over<g ref="char:EOLhyphen"/>ridden.</head>
+               <p>VVAsh his mouth with Vi<g ref="char:EOLhyphen"/>neger and Salt, and hee will feed againe.</p>
+            </div>
+            <div n="33" type="prescription">
+               <head>
+                  <hi>XXXIII.</hi> For a Horse that is poore in Flesh.</head>
+               <p>GIve him two penniworth of Horse-spire in one penni<g ref="char:EOLhyphen"/>worth of Ale.</p>
+            </div>
+            <div n="34" type="prescription">
+               <pb n="21" facs="tcp:169853:16"/>
+               <head>
+                  <hi>XXXIIII.</hi> For a Horse that is Purcie.</head>
+               <p>TAke the powder of Gentian, at the Apothicaries, give him that in water or drinke, and it will help him.</p>
+            </div>
+            <div n="35" type="prescription">
+               <head>
+                  <hi>XXXV.</hi> To stanch blood in a Horse.</head>
+               <p>TAke the scraping of the out<g ref="char:EOLhyphen"/>side of a Pottage pot that you seeth meat in, lay it to the bleeding place plaister-wise; and it will stanch the blood forthwith.</p>
+            </div>
+            <div n="36" type="prescription">
+               <head>
+                  <hi>XXXVI.</hi> For the Scratches.</head>
+               <p>TAke English-honey, Verdi<g ref="char:EOLhyphen"/>grease, &amp; the powder of Brim<g ref="char:EOLhyphen"/>stone, beat them well together, and wash the place very cleane, and then anoint it all over.</p>
+            </div>
+            <div n="38" type="prescription">
+               <pb n="22" facs="tcp:169853:17"/>
+               <head>
+                  <hi>XXXVIII.</hi> For the Ring-bone or Spavin.</head>
+               <p>IT groweth with a hard knot, betweene the hoofe and the haire, when you perceive it, burne it with a hot Iron, and annoint the haire about it with Neates-foot oyle.</p>
+            </div>
+            <div n="39" type="prescription">
+               <head>
+                  <hi>XXXIX.</hi> For the Staggers,</head>
+               <p>TAke two penniworth of Tur<g ref="char:EOLhyphen"/>merick, Anniseeds and long Pepper beaten, and Sallet oyle, of each one peniworth, give him this in a drink, rowell him in the fore<g ref="char:EOLhyphen"/>head, and put in a piece of Nut<g ref="char:EOLhyphen"/>meg; then take a spoonefull of Aqua-vitae, and a spoonefull of Salt, put it in one of his eares, and so likewise in the other eare, and bind them up for the space of 24. houres together.</p>
+            </div>
+            <div n="40" type="prescription">
+               <pb n="23" facs="tcp:169853:17"/>
+               <head>
+                  <hi>XL.</hi> For the Pole evill.</head>
+               <p>TAke running water, and Chamberlie of each a quart, put in a pint of Salt, boyle them till they come to a quart, then boyle in them a little wad of Hay, straine it, and give it to the Horse to drinke.</p>
+            </div>
+            <div n="41" type="prescription">
+               <head>
+                  <hi>XLI.</hi> For a Horse that is prickt with an Naile.</head>
+               <p>TAke Turpentine, Tarre, Pitch, and Beefe suet, of each dram, and one head of Garlick, boyle all these together, and lay them on so hote as can be suffered; and if it chance to breake out above the hoofe annoint the place with the said stuffe, and it will helpe it.</p>
+            </div>
+            <div n="41" type="prescription">
+               <pb n="24" facs="tcp:169853:18"/>
+               <head>
+                  <hi>XLI.</hi> For a horse that cannot Stale.</head>
+               <p>TAke Beere, Anniseeds and Sallet-oyle, of each one pen<g ref="char:EOLhyphen"/>niworth, and a little Ellicompane, give it him to drinke: Then draw his Yard, wash it with But<g ref="char:EOLhyphen"/>ter and a little Wine-vineger two or three dayes together, and it will cure him.</p>
+            </div>
+            <div n="42" type="prescription">
+               <head>
+                  <hi>XLII.</hi> To cure a horse that hath the Strangles, or the Stran<g ref="char:EOLhyphen"/>gullion.</head>
+               <p>TAke crums of browne Bread, Bay-berries or leaves in pow<g ref="char:EOLhyphen"/>der, temper them with May-but<g ref="char:EOLhyphen"/>ter, and give him thereof three dayes together, and it will cure him.</p>
+            </div>
+            <div n="43" type="prescription">
+               <pb n="25" facs="tcp:169853:18"/>
+               <head>
+                  <hi>XLIII.</hi> For any Swelling about a horse.</head>
+               <p>TAke Hemlock, stampe it and mix it with Sheeps-dung and Vinegar, and make of it a plaister and lay it to the swelled place.</p>
+            </div>
+            <div n="44" type="prescription">
+               <head>
+                  <hi>XLIIII.</hi> To cure the swelling in the legge or foot of any Horse, Oxe, Cow, or any other beast.</head>
+               <p>MArke the ground where the said Leg or Foot doth stand, and with a knife or other thing digge up a Turfe, or piece of earth just where the Leg or Foot did stand; hang the same on a white Thorne, if it bee Summer, or dry weather; If it be Winter or wet weather, hang it in your Chim<g ref="char:EOLhyphen"/>ney; and as the Turfe or earth
+<pb n="26" facs="tcp:169853:19"/> dryeth, so shall the swelling cease. This is certaine true and bin often proved. Read a thousand <hi>Notable things,</hi> the 9. <hi>booke,</hi> and the 83. <hi>Chapter.</hi>
+               </p>
+            </div>
+            <div n="45" type="prescription">
+               <head>
+                  <hi>XLV.</hi> For a horse that hath the Vives.</head>
+               <p>TAke a penniworth of Eng<g ref="char:EOLhyphen"/>lish-honey, a handfull of Vio<g ref="char:EOLhyphen"/>let leaves, stampe them together; being mixed, then slit the sinew under the Eare, &amp; lay on the plai<g ref="char:EOLhyphen"/>ster two or three dayes together, and it will cure him in three or foure times doing, or lesse.</p>
+            </div>
+            <div n="46" type="prescription">
+               <head>
+                  <hi>XLVI.</hi> For a horse that hath the Yellowes.</head>
+               <p>CHop Sellendine and Rew, ve<g ref="char:EOLhyphen"/>ry small, mix it with fresh
+<pb n="2" facs="tcp:169853:19"/> Butter and Sallet-oyle, give it to him, and let him Blood in the fore-head.</p>
+            </div>
+            <div n="47" type="prescription">
+               <head>
+                  <hi>XLVII.</hi> If a Horse forsake his Meat.</head>
+               <p>STampe Garlicke and Pepper together, give it him; and rub his teeth with Salt tyed in a clout on a stick, and thrust it into his jawes.</p>
+            </div>
+            <div n="48" type="prescription">
+               <head>
+                  <hi>XLVIII.</hi> To make a horse Hoofe to grow, or to repaire a broken hoofe.</head>
+               <p>TAke eleven heads of Garlick, seaven ounces of Rew, old Barrowes-grease and Allome, of each two ounces, mingle them with halfe a handfull of Asses
+<pb n="28" facs="tcp:169853:20"/> dung, boyle them together, and annoynt the hoofe therewith.</p>
+            </div>
+            <div n="49" type="prescription">
+               <head>
+                  <hi>XLIX.</hi> If a horse be Saddle-galled, or hurt with the Saddle that it doth swell.</head>
+               <p>SEeth an Onion in water, and lay it so hot to his backe as can bee suffered, bind it fast, and it will asswage the swelling. Or take Salt beaten, mingled with Honey, and the yolke of an Egge, and lay it upon the place, is very good.</p>
+            </div>
+            <div n="50" type="prescription">
+               <head>
+                  <hi>L.</hi> The Vives is a sore that groweth in the Eare.</head>
+               <p>TUrne downe his Eare, and launce open the soare at the root of the eare, but take heed you cut not the veyne a little above.</p>
+            </div>
+            <div n="51" type="prescription">
+               <pb n="29" facs="tcp:169853:20"/>
+               <head>
+                  <hi>LI.</hi> To cure a horse that is Foun<g ref="char:EOLhyphen"/>dered.</head>
+               <p>TAke the skinne of a Weezel, chop it or cut it in small pieces with fresh Butter, and a rotten Apple, mixe them with Vinegar, and give him that to drinke with a horne, and cover him warme.</p>
+            </div>
+            <div n="52" type="prescription">
+               <head>
+                  <hi>LII.</hi> To cure the Wormes, or Bottes that doe wring his belly, and make him stampe, and teare himselfe.</head>
+               <p>TAke Harts-horne and Savin, chopt or stamped together, mixe it with Vinegar, give it him to drinke with a horne. Or with your hand wash his fundament with Bryne, or with the water of Jermander.</p>
+            </div>
+            <div n="53" type="prescription">
+               <pb n="30" facs="tcp:169853:21"/>
+               <head>
+                  <hi>LIII.</hi> To make a Horse that is almost tyred, to hold out his journey.</head>
+               <p>POwre a quart of good Wine or Ale downe his throat, and it will refresh him.</p>
+            </div>
+            <div n="54" type="prescription">
+               <head>
+                  <hi>LIV.</hi> If a Horse in halting bow not his Hough.</head>
+               <p>MIngle Hempe with the white of an Egge, and stop the hoofe under the Shooe; but if it bee a Wound, put in the powder of Oyster-shelles, and Verdigrease, to dry it up; or the white of an Egge with Soape and Vinegar, and it will helpe him.</p>
+            </div>
+         </div>
+         <div type="prescriptions">
+            <pb n="31" facs="tcp:169853:21"/>
+            <head>TO KNOW THE DISEASE. AS ALSO, Severall Medicines for the Curing of Cowes, Sheepe, Hogs, and Dogs.</head>
+            <div n="1" type="prescription">
+               <head>
+                  <hi>I.</hi> To know and helpe a Cow, that is like to cast her Calfe.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>Hee will looke hollow Eyed and Pine. Take the grounds of Ale, and the powder of Si<g ref="char:EOLhyphen"/>namon, Licorice, and Ginger, and give it her to drinke.</p>
+            </div>
+            <div n="2" type="prescription">
+               <pb n="32" facs="tcp:169853:22"/>
+               <head>
+                  <hi>II.</hi> For a Cow that hath cast her Calse.</head>
+               <p>TAke Graines and long Pep<g ref="char:EOLhyphen"/>per, of each two penniworth in powder, and give it her to drink in Milke.</p>
+            </div>
+            <div n="3" type="prescription">
+               <head>
+                  <hi>III.</hi> For a Cow that hath Calved, and cannot cleane.</head>
+               <p>TAke a quart of good Ale, boile it, and scum it well, then put in a handfull of the flowre of Bar<g ref="char:EOLhyphen"/>ley-malt, and give it her to drinke warme in a Mash.</p>
+            </div>
+            <div n="4" type="prescription">
+               <head>
+                  <hi>IIII.</hi> For Weaning of Calves.</head>
+               <p>TAke five branches of Tansey, five branches of Rosemary, and five sprigs of Mint, stampe them and give her the juyce to drinke with foure spoonfuls of Vergis.</p>
+            </div>
+            <div n="5" type="prescription">
+               <pb n="33" facs="tcp:169853:22"/>
+               <head>
+                  <hi>V.</hi> To increase Milke in Kine.</head>
+               <p>TAke Suger-candy, Sinamon, and strong drinke, and give it her.</p>
+            </div>
+            <div n="6" type="prescription">
+               <head>
+                  <hi>VI.</hi> If a Cow have the Collick, shee will still drinke and cough.</head>
+               <p>TAke the powder of one penni<g ref="char:EOLhyphen"/>worth of Ginger, and the pow<g ref="char:EOLhyphen"/>der of one penniworth of Lico<g ref="char:EOLhyphen"/>rice, give it her in a quart of Mead to drinke.</p>
+            </div>
+            <div n="7" type="prescription">
+               <head>
+                  <hi>VII.</hi> If a Beast have lost their Cud.</head>
+               <p>TAke halfe a pinte of Urine, Bay-salt, and Wall-earth, of each a handfull, mixe them, and wash the roofe of the Beasts mouth. Pluck out their tongue, holding it fast, and force the beast to drinke some of the said water.</p>
+            </div>
+            <div n="8" type="prescription">
+               <pb n="34" facs="tcp:169853:23"/>
+               <head>
+                  <hi>VIII.</hi> If a Cow bee Bruised, shee will pisse blood.</head>
+               <p>TAke Periwinkle, Harts-tong, Cumfrey, and Blood wort, chop them, and stampe them in a Morter, wring out the joyce and give the Beast a little thereof in Rennet.</p>
+            </div>
+            <div n="9" type="prescription">
+               <head>
+                  <hi>IX.</hi> For a beast that Pisseth blood.</head>
+               <p>TAke a quart of old Ale, and a handfull of Swines-dung, a good quantity of Bole-armoniack in powder, mixe them, and put to them a handfull of young Hemp, and give it the beast to drinke.</p>
+            </div>
+            <div n="10" type="prescription">
+               <head>
+                  <hi>X.</hi> For a beast that cannot Dung.</head>
+               <p>TAke Hay seeth it well, stampe it, straine it, and put into it
+<pb n="35" facs="tcp:169853:23"/> fresh Grease and Sope, and give it the beast.</p>
+            </div>
+            <div n="11" type="prescription">
+               <head>
+                  <hi>XI.</hi> If a Cow have the Fret, her Milke will goe away, and shee will lye with her legs along.</head>
+               <p>TAke Danderdelian, &amp; Ground<g ref="char:EOLhyphen"/>sell, boyle them well in good Ale and straine it, and give it her.</p>
+            </div>
+            <div n="12" type="prescription">
+               <head>
+                  <hi>XII.</hi> If a Beast bee sicke of the Gall, they will be full-bound, or swelled, rea<g ref="char:EOLhyphen"/>dy to burst, and suddenly fall downe and dye.</head>
+               <p>TAke a pinte of stale Ale, one penniworth of an Oxe-gall, and a handfull of Salt, mix them and give it the Beast to drinke, and it will cure them forthwith.</p>
+            </div>
+            <div n="13" type="prescription">
+               <pb n="36" facs="tcp:169853:24"/>
+               <head>
+                  <hi>XIII.</hi> If a Cowes Gall doe run, shee will Scowre, hang downe her Eares, and have no joy of her<g ref="char:EOLhyphen"/>selfe.</head>
+               <p>TAke Sellendine, Turmericke, and Rennet, boyle them, straine them, and give it the beast luke<g ref="char:EOLhyphen"/>warme.</p>
+            </div>
+            <div n="14" type="prescription">
+               <head>
+                  <hi>XIV.</hi> If a beast be grieved in the Lungs, they will be hoarse, short winded and hang out their Tongue.</head>
+               <p>TAke a pint of stale Ale, a half-penniworth of Bole-armoniack beaten, of Hemp-seed, and Long-woort, of each a handfull, beat them well together, and give it the beast to drinke.</p>
+            </div>
+            <div n="15" type="prescription">
+               <pb n="37" facs="tcp:169853:24"/>
+               <head>
+                  <hi>XV.</hi> If a beast be sicke of the Murren, they will rattle in the Throat.</head>
+               <p>TAke a pinte of old Ale, Pep<g ref="char:EOLhyphen"/>per and Graines, of each one half-penniworth, of Fennicrick a farthing-worth, beat them and mixe them, and give it the beast warme.</p>
+            </div>
+            <div n="16" type="prescription">
+               <head>XVI.</head>
+               <p>OR you may let them bloud in the Nostrels, and give them Suger-candy, Sinamon, and Tur<g ref="char:EOLhyphen"/>merick, beaten and put in Milke.</p>
+            </div>
+            <div n="17" type="prescription">
+               <head>
+                  <hi>XVII.</hi> But if the Murren be betweene the Skin and the Flesh, it will ap<g ref="char:EOLhyphen"/>peare by some swelling.</head>
+               <p>THen take stale Ale, Urine and Salt, wash the upper side of the Sore, be sure to wash it downward, &amp; if the skin go off with washing.
+<pb n="38" facs="tcp:169853:25"/> Then take Salt Butter, and Ho<g ref="char:EOLhyphen"/>ney, mixe them and annoynt the place, then slit the sore under the swelling a handfull long, that the corruption may run forth.</p>
+            </div>
+            <div n="18" type="prescription">
+               <head>
+                  <hi>XVIII.</hi> If a beast bee Maw-sick, their Eyes will settle in their head; and the beast will grone sore and pine away.</head>
+               <p>TAke a pinte of sweet Milke, a spoonefull of Tarre, a halfe-penniworth of Honey, mix them and give it the beast to drinke warme.</p>
+            </div>
+            <div n="19" type="prescription">
+               <head>
+                  <hi>XIX.</hi> The More-evill, is knowne by their staling of blood.</head>
+               <p>TAke Moore-water and Moore grasse, otherwise called <hi>Rosa<g ref="char:EOLhyphen"/>solis,</hi> chop the Herbes small, and give the beast a dishfull of it three or foure times a day.</p>
+            </div>
+            <div n="20" type="prescription">
+               <pb n="39" facs="tcp:169853:25"/>
+               <head>
+                  <hi>XX.</hi> If a Cow bee Asp-sprung, shee will swell about the Eyes.</head>
+               <p>TAke Running-water, Leaven, and Salt, and rub her mouth and Nostrels therewith, and break the Bleb under her tongue.</p>
+            </div>
+            <div n="21" type="prescription">
+               <head>
+                  <hi>XXI.</hi> For the dry Rot, or Lung-rot.</head>
+               <p>TAke Lung-woort, Sellendine, and Bay-salt, of each a hand<g ref="char:EOLhyphen"/>full, and foure heads of Garlick, stampe all these together, then take a quarter of a pound of Lea<g ref="char:EOLhyphen"/>ven, a little dishfull of Soot, work it with the other things, then take a quart or lesse of good Ale put all together, make it blood-warm, then put it in two spoonefuls of Mather, one penniworth of long Pepper beaten, and give it the beast to drinke, and chafe him up and
+<pb n="40" facs="tcp:169853:26"/> downe an houre. But keepe him from water, five or six houres.</p>
+            </div>
+            <div n="22" type="prescription">
+               <head>
+                  <hi>XXII.</hi> If a beast <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed with eating of venemous He<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bes, as ground-Thi<g ref="char:EOLhyphen"/>stle, Pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gh, Toad-stoole, Hemlock, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> He<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bane, &amp;c. they will for<g ref="char:EOLhyphen"/>sake their Meat.</head>
+               <p>TAke a good handfull of Wormwood, chop it very small, put it in a good quantity of Ale, or Beere, and give in the beast to drink three or foure dayes together, every day once.</p>
+            </div>
+            <div n="23" type="prescription">
+               <head>
+                  <hi>XXIII.</hi> If a Cow be swelled with eating of greene Corne.</head>
+               <p>TAke a handfull of the tops of Nettles, stampe them well, then straine them with Wine or Honyed water, and give it the beast to drinke.</p>
+            </div>
+            <div n="24" type="prescription">
+               <pb n="41" facs="tcp:169853:26"/>
+               <head>
+                  <hi>XXIV.</hi> For the Staggers.</head>
+               <p>TAke Cloves and Fennell-seed, beat them to powder, and give it the beast with Milke, and then let them Bloud.</p>
+            </div>
+            <div n="25" type="prescription">
+               <head>
+                  <hi>XXV.</hi> To cure the Tengen.</head>
+               <p>THis disease is knowne by the swelling of the Tongue, or by a Bleb thereon. It maketh them rough-furred in the Throat, and swell. Take a handfull of dry Moles earth prick the Bleb with the point of a sharpe knife. Then rub the roote of the tongue well about the Bleb with the earth, and cast some Urine into the beasts mouth, and this will helpe them speedily.</p>
+            </div>
+            <div n="26" type="prescription">
+               <pb n="42" facs="tcp:169853:27"/>
+               <head>
+                  <hi>XXVI.</hi> For the Wither.</head>
+               <p>TAke three roots of Polopody, seeth them well in water, af<g ref="char:EOLhyphen"/>ter seeth them in Drinke, bruise them well, and then give it the beast.</p>
+            </div>
+            <div n="27" type="prescription">
+               <head>
+                  <hi>XXVII.</hi> For a Cow that hath the Wither.</head>
+               <p>TAke the Mores of the flower De-luce, wash them cleane, stampe them small, and mixe it with a penniworth of long Pepper in powder, make thereof three Balls, of the bignesse of an Egge, and give the beast one in drinke, each day, for three dayes toge<g ref="char:EOLhyphen"/>ther.</p>
+            </div>
+            <div n="28" type="prescription">
+               <pb n="43" facs="tcp:169853:27"/>
+               <head>
+                  <hi>XXVIII.</hi> For Sheepe that have the Stagger.</head>
+               <p>
+                  <seg rend="decorInit">G</seg>Ive them one penni<g ref="char:EOLhyphen"/>worth of Treacle, a race of Turmericke, and one penniworth of English-Saffron.</p>
+            </div>
+            <div n="29" type="prescription">
+               <head>
+                  <hi>XXIX.</hi> For Sheepe that make Red water.</head>
+               <p>TAke a little piece of Roch<g ref="char:EOLhyphen"/>allome, and a little piece of Butter, mixe it and give it them, as you see occasion.</p>
+            </div>
+            <div n="30" type="prescription">
+               <pb n="44" facs="tcp:169853:28"/>
+               <head>
+                  <hi>XXX.</hi> To know if any Ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tle shall live or dye of that Infirmity. And to cure any</head>
+               <p>TAke one penniworth of Dill<g ref="char:EOLhyphen"/>seed, and some of their haire neare their Eare, on the neere side, lay it on a Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>findish of quicke coles, and hold it under the beasts mouth. If their Mouth, Nose, or Eyes doe runne, or trickle downe water, then the Beast will recover; otherwise they are past recovery.</p>
+            </div>
+            <div n="31" type="prescription">
+               <head>
+                  <hi>XXXI.</hi> To cure Cattle that are Bewitched.</head>
+               <p>OF every one of your Cattle, take some of the haire, that groweth neare the Eare on the neere side, and some of the haire
+<pb n="45" facs="tcp:169853:28"/> of every of their tayles; wet the haire well in faire water, put thereto a handfull of Salt. Then make a fire, set a Trevit over the fire, lay a tyle on the Trevit, put the wet haire and salt on the Tile, stirre it with a stick, let it burne to ashes. And when the ashes are cold, bury them in the ground, to<g ref="char:EOLhyphen"/>wards the quarter of heaven where the suspected Witch liveth. And if the witch liveth in a Thatched house, burne with the haire and salt a handfull of the thatch. If in a tyled house, burne the haire and salt on a tyle of that house; and take the Tyle or Thatch that is neare or over the doore of the house where the suspected Witch dwelleth. ¶¶ And note, — <hi>That you must burn the haire the houre before the Change, Full, or Quarters of the Moon, &amp; continue so oft as occasion. Read the 465, and 466. pages of <hi>Lillyes</hi> Intro<g ref="char:EOLhyphen"/>duction to <hi>Astrologie.</hi>
+                  </hi>
+               </p>
+            </div>
+            <div n="32" type="prescription">
+               <pb n="46" facs="tcp:169853:29"/>
+               <head>
+                  <hi>XXXII.</hi> For Hogges that have the Mur<g ref="char:EOLhyphen"/>ren or Garget.</head>
+               <p>TAke Gun powder, Bay-salt, Bole-armoniack, and Garlick, beat them together, and with a knife make a hole betweene their clawes, put in the quantity of a hazell Nut, and let them bloud under the Tongue, or in the Shoulder veyne.</p>
+            </div>
+            <div n="33" type="prescription">
+               <head>
+                  <hi>XXXIII.</hi> For a Mangie Dog.</head>
+               <p>TAke Vinegar, Gun powder, black Sope, Brimstone, burnt Allome, and Verdigrease boyle all these with Honey, and rub the place therewith.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
